@@ -1,2 +1,2 @@
 # cognifiz_internship
-the tasks that are doen in intyernship time period
+the tasks that are done in intyernship time period
